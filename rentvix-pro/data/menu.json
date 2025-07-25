@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Pengguna",
+        "path": "/pengguna"
+    },
+    {
+        "name": "Perusahaan",
+        "path": "/perusahaan"
+    },
+    {
+        "name": "Kendaraan",
+        "path": "/kendaraan"
+    },
+    {
+        "name": "Motor",
+        "path": "/motor"
+    },
+    {
+        "name": "Sepeda",
+        "path": "/sepeda"
+    }
+]
